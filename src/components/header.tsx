@@ -84,7 +84,7 @@ const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?Compa
       <div className="hidden md:flex items-center gap-[20px]">
         {navItems.map((val, index) => (
           <div
-            className=" text-[#0C394B] text-[18px] relative cursor-pointer"
+            className=" text-[#A4B3C1] hover:text-[#0C394B]  text-[16px] relative cursor-pointer"
             key={index}>
             <div className="flex items-center" onClick={(e:any) => handleItemClick(index,e)} id={`navItem-${index}`} ref={(ref) => (dropdownRefs.current[index] = ref)}>
             <p >{val}</p>

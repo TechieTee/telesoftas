@@ -6,7 +6,7 @@ const WhyUs = () => {
       <h2 className="text-white  text-3xl text-center lg:text-5xl  font-bold leading-normal">
       Why Choose TeleSoftas?
                   </h2>
-      <h4 className="text-white text-center font-normal leading-loose">
+      <h4 className="text-white text-center text-[18px] mb-4 font-normal leading-[28px] lg:leading-[33px] md:leading-[33px]">
         When you partner with TeleSoftas, you gain access to a wealth of knowledge and experience<br/>
         in cutting-edge technologies. But that s not all our dedicated teams offer a unique<br/>
         combination of advantages that set us apart
