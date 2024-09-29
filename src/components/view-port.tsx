@@ -29,7 +29,7 @@ const ViewPort = () => {
         </div>
 
         <div className="col-span-1 items-center justify-center hidden xl:flex">
-        {/* <img src={Image.hero} alt="logo"  className='w-[70%]'/>  */}
+        <img src={Image.hero} alt="logo"  className='lg:w-[70%]'/> 
 
         </div>
       </div>
