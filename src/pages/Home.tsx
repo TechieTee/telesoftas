@@ -21,7 +21,7 @@ const Home = () => {
  <Expertise />
  <Stacks/>
  <HowWeWork /> <WhyUs/> <Technologies /><Contact />
-  {/* <Footer/>  */}
+  <Footer/> 
 
  
 
