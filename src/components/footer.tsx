@@ -42,7 +42,7 @@ const Footer = () => {
               <div className="text-[#595959] text-[14px] mb-2 font-normal leading-[28px]">
                 Sustainability policy
               </div>
-              <div className="px-2 bg-black lg:w-full w-fit-content flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
+              <div className="px-2 bg-black lg:w-full flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start justify-between">
               <img src={Image.iso1} alt="logo" width={120} className='' /> 
               <img src={Image.iso2} alt="logo"  width={120} className=''/> 
 

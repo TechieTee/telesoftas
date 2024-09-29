@@ -23,12 +23,12 @@ const Expertise = () => {
         <img 
           src={Image.expertise} 
           alt="Fallback image" 
-         
+       className="w-[100%]"
         />
       ) : (
      
         <iframe
-      
+        className="w-[100%]"
         src="https://www.youtube.com/embed/5r_7VYk-VGM"
         title="YouTube video player"
         frameBorder="0"
