@@ -17,7 +17,7 @@ const Expertise = () => {
             and organizations. Our expertise encompasses:
           </h4>
 
-    <div className="lg:w-[50%] [90%] mx-auto pb-4">
+    <div className="lg:w-[50%] w-[100%] mx-auto pb-4">
    
       {videoError ? (
         <img 
