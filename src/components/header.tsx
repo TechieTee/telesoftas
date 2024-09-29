@@ -79,7 +79,7 @@ const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?Compa
 
   return (
     <nav className="py-[15px] px-[7%] flex items-center justify-between  shadow-xl drop-shadow-lg bg-white z-50 fixed w-full">
-    <img src={Image.logo} width={170} alt="logo" onClick={()=>navigate('/homepage')} className='cursor-pointer'/> 
+    <img src={Image.logo} width={170} alt="logo" onClick={()=>navigate('/')} className='cursor-pointer'/> 
 
       <div className="hidden md:flex items-center gap-[20px]">
         {navItems.map((val, index) => (
@@ -127,7 +127,7 @@ const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?Compa
       >
    
         {navItems.map((val, index) => (
-          <div className="flex justify-between" key={index}>
+          <div className="flex gap-4" key={index}>
             <p>{val}</p>
            
           </div>
