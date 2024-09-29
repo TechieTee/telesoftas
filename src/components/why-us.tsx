@@ -17,9 +17,9 @@ const WhyUs = () => {
       <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
-    </div> <p className="text-[#404040] text-[26px] font-bold text-center leading-[35px]">Flexibility to Build
+    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">Flexibility to Build
             for Any Industry</p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[18px] text-center leading-[30px]" >
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
           We offer tailored solutions across various industries, including finance healthcare and e-commerce. to meet your business needs and drive success
           </div>
         </div>
@@ -28,8 +28,8 @@ const WhyUs = () => {
       <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
-    </div> <p className="text-[#404040] text-[26px] font-bold text-center leading-[35px]">Time Zone Advantage</p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[18px] text-center leading-[30px]" >
+    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">Time Zone Advantage</p>
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
           Based in Tallinn. Estonia. we efficiently collaborate with clients across time zones, ensuring your project stays on track.
           </div>
         </div>
@@ -38,9 +38,9 @@ const WhyUs = () => {
       <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
-    </div> <p className="text-[#404040] text-[26px] font-bold text-center leading-[35px]">
+    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">
           Excellent English Communication Skills</p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[18px] text-center leading-[30px]" >
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
           Our English-fluent team ensures clear communication. understanding vour neeas and providing timely updates throughout development.
            </div>
         </div>
@@ -53,9 +53,9 @@ const WhyUs = () => {
         <div className="w-full h-full bg-white rounded-full"></div>
       </div>
     </div>
-          <p className="text-[#404040] text-[26px] font-bold text-center leading-[35px]">
+          <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">
           Cost-Effective Solutions</p>
-          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[18px] text-center leading-[30px]" >
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
           We provide cost-effective solutions with competitive pricing and  quality, ensuring great rol. contact us to elevate vour development process today.</div>
         </div> 
       </div>

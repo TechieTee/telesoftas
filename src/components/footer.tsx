@@ -42,9 +42,9 @@ const Footer = () => {
               <div className="text-[#595959] text-[14px] font-normal leading-[28px]">
                 Sustainability policy
               </div>
-              <div className="flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
-              <img src={Image.iso1} alt="logo" width={150} className=''/> 
-              <img src={Image.iso2} alt="logo"  width={150} className=''/> 
+              <div className="px-2 bg-black w-full flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
+              <img src={Image.iso1} alt="logo" width={120} className='' /> 
+              <img src={Image.iso2} alt="logo"  width={120} className=''/> 
 
 
               </div>

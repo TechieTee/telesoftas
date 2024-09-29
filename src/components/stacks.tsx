@@ -2,7 +2,7 @@ import React from 'react'
 
 const Stacks = () => {
   return (
-    <div className='mx-auto lg:px-36 lg:pl-[200px] lg:py-16 md:px-24 md:py-16 px-[10px] py-[50px] grid  lg:gap-24 gap-14 '>
+    <div className='mx-auto lg:px-24 lg:pl-[200px] lg:py-16 md:px-24 md:py-16 px-[10px] py-[50px] grid  lg:gap-24 gap-14 '>
       <div className=" grid items-center justify-center lg:grid-cols-2 lg:gap-8 md:grid-cols-1 gap-12 sm:grid-cols-1">
 
         <div className="group relative ">
