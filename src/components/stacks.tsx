@@ -5,7 +5,7 @@ const Stacks = () => {
     <div className='mx-auto lg:px-24 lg:pl-[200px] lg:py-16 md:px-24 md:py-16 px-[10px] py-[50px] grid  lg:gap-24 gap-14 '>
       <div className=" grid items-center justify-center lg:grid-cols-2 lg:gap-8 md:grid-cols-1 gap-12 sm:grid-cols-1">
 
-        <div className="group relative ">
+        <div className="group relative lg:mt-4 md:mt-4 mt-8">
           <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
           Web Development
           </div>
@@ -21,7 +21,7 @@ const Stacks = () => {
           </button></a>
         </div>
 
-        <div className="group relative">
+        <div className="group relative lg:mt-4 md:mt-4 mt-8">
           <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
           Mobile Development
           </div>
@@ -38,7 +38,7 @@ const Stacks = () => {
 
       <div className=" grid items-center  justify-center lg:grid-cols-2  md:grid-cols-1 lg:gap-8 gap-12 sm:grid-cols-1">
 
-<div className="group relative">
+<div className="group relative lg:mt-4 md:mt-4 mt-8">
   <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
   Cloud Solutions
   </div>
@@ -52,7 +52,7 @@ const Stacks = () => {
           </button></a>
 </div>
 
-<div className="group relative">
+<div className="group relative lg:mt-4 md:mt-4 mt-8">
   <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
   Artificial Intelligence
   </div>
@@ -70,7 +70,7 @@ const Stacks = () => {
 
 <div className="       grid items-center justify-center lg:grid-cols-2  md:grid-cols-1  lg:gap-8 gap-12 sm:grid-cols-1">
 
-<div className="group relative">
+<div className="group relative lg:mt-4 md:mt-4 mt-8">
   <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
   Digital Transformation
   </div>
@@ -85,7 +85,7 @@ const Stacks = () => {
 </div>
 
 
-<div className="group relative">
+<div className="group relative lg:mt-4 md:mt-4 mt-8">
   <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
   Data Management
   </div>
