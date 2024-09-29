@@ -127,7 +127,7 @@ const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?Compa
       >
    
         {navItems.map((val, index) => (
-          <div className="flex gap-2" key={index}>
+          <div className="" key={index}>
             <p>{val}</p>
            
           </div>
