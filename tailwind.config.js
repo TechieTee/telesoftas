@@ -7,6 +7,9 @@ module.exports = {
   "./node_modules/react-tailwindcss-datepicker/dist/index.esm.js"],
   theme: {
     extend: {
+      fontSize: {
+        'sm': '1rem',  
+      },
       colors:{
         primary:'#00acef',
         secondary: '#F5801F'

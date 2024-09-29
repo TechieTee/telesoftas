@@ -78,13 +78,13 @@ const Header = () => {
 const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?CompanyApi:selectedIndex===2&&helpApi 
 
   return (
-    <nav className="py-[15px] px-[7%] flex items-center justify-between  shadow-xl drop-shadow-lg bg-white z-50 fixed w-full">
-    <img src={Image.logo} width={170} alt="logo" onClick={()=>navigate('/')} className='cursor-pointer'/> 
+    <nav className="py-[15px] px-[4%] flex items-center justify-between   bg-white z-50 fixed w-full">
+    <img src={Image.logo} width={280} alt="logo" onClick={()=>navigate('/')} className='cursor-pointer'/> 
 
       <div className="hidden md:flex items-center gap-[20px]">
         {navItems.map((val, index) => (
           <div
-            className=" text-[#0C394B] text-[16px] relative cursor-pointer"
+            className=" text-[#0C394B] text-[18px] relative cursor-pointer"
             key={index}>
             <div className="flex items-center" onClick={(e:any) => handleItemClick(index,e)} id={`navItem-${index}`} ref={(ref) => (dropdownRefs.current[index] = ref)}>
             <p >{val}</p>

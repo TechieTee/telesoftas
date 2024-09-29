@@ -4,7 +4,7 @@ import { Image } from "../assets/index";
 const Footer = () => {
   return (
     <>
-      <div className="lg:px-24 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-black w-full">
+      <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-black w-full">
         <div className="grid gap-6 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1">
           <div className="grid lg:grid-cols-1 ">
           <img src={Image.logo} width={170} alt="logo"/> 

@@ -39,7 +39,7 @@ const Input = (props: IProps) => {
     <div className="flex flex-col w-full">
       {label && (
         <label
-          className="mb-2 text-[#404D61] text-sm font-medium"
+          className="mb-2 text-[#404D61] text-[18px] font-medium"
           htmlFor={name}
         >
           {label} {required && <span className="text-[#EB5757]"> *</span>}

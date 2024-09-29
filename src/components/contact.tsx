@@ -43,7 +43,7 @@ const Contact = () => {
   //   }
   // };
   return (
-    <div className="lg:px-24 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#F5F8FF] w-full">
+    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#F5F8FF] w-full">
 
       <div className="grid items-center justify-between gap-16 lg:grid-cols-2  md:grid-cols-1 sm:grid-cols-1">
 
@@ -63,7 +63,7 @@ const Contact = () => {
           {/* <div className="lg:w-[10%]  md:w-[10%] w-[100%]">
             <div className="flex items-center justify-center">
               <div className="flex-grow border-t border-black"></div>
-              <span className="mx-2 text-[16px] text-black">Or</span>
+              <span className="mx-2 text-[18px] text-black">Or</span>
               <div className="flex-grow border-t border-black"></div>
             </div>
           </div> */}
@@ -102,18 +102,18 @@ const Contact = () => {
 
           <div className="flex items-center gap-2">
             <input type="checkbox" name="" id="" />
-            <div className="font-medium text-sm text-[#595959]">
+            <div className="font-medium text-[14px] text-[#595959]">
               Yes, I consent to receiving emails
             </div>
           </div>
-
+<a href="https://calendly.com/chude-sylvester-telesoftas">
           <button
             // isLoading={isSubmitting}
             className="lg:w-[70%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
           >
             BOOK A FREE IDEA VALUATION CONSULTATION
           </button>
-
+          </a>
         </form>
       </div>
 
