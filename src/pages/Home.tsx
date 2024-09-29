@@ -20,11 +20,12 @@ const Home = () => {
  <SubViewPort/>
  <Expertise />
  <Stacks/>
- <HowWeWork />
- <WhyUs/>
- <Technologies />
- <Contact />
- <Footer/> 
+ <HowWeWork /> <WhyUs/> <Technologies /><Contact />
+  <Footer/> 
+
+ 
+
+
 </div>
   );
 };

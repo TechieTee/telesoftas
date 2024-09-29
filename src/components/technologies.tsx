@@ -1,15 +1,15 @@
 import { Image } from "../assets/index";
 const Technologies = () => {
   return (
-    <div className="px-24 py-16 block bg-[#FFFFFF] w-full lg:text-left md:text-center sm:text-center" >
+    <div className="lg:px-24 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#FFFFFF] w-full lg:text-left md:text-center sm:text-center" >
  
         <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 relative">
           <div>
-            <h2 className="text-black text-3xl lg:text-[50px] font-bold leading-[60px] mb-4">
+            <h2 className="text-black lg:text-left md:text-left text-center text-3xl lg:text-[50px] font-bold lg:leading-[60px] mb-4 mt-4">
               We can comfortably build
               on these platforms:
             </h2>
-            <h4 className="text-black text-[18px] font-normal  mb-14 leading-[33px]">
+            <h4 className="text-black lg:text-left md:text-left text-center lg:text-[18px] text-[16px] font-normal  mb-14 lg:leading-[33px]">
               At TeleSoftas, we specialize in leveraging a diverse array of technologies to
               build robust, scalable applications that meet the unique needs of your
               business. Our expertise spans:

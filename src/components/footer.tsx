@@ -4,8 +4,8 @@ import { Image } from "../assets/index";
 const Footer = () => {
   return (
     <>
-      <div className="px-24 py-16 bg-white w-full">
-        <div className="grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1">
+      <div className="lg:px-24 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-black w-full">
+        <div className="grid gap-6 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1">
           <div className="grid lg:grid-cols-1 ">
           <img src={Image.logo} width={170} alt="logo"/> 
 
@@ -24,7 +24,7 @@ const Footer = () => {
               <div className="flex items-start justify-start mb-2 text-[14px] font-bold text-black">
                 Stay Tuned:
               </div>
-              <div className="flex items-start mb-4 lg:gap-4 md:gap-4 sm:gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
+              <div className="flex items-start mb-4 gap-4 md:gap-4 sm:gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
               <img src={Image.facebook} alt="logo" width={20} className=''/> 
                 <img src={Image.linkedin} alt="logo" width={20} className=''/> 
 
@@ -42,9 +42,9 @@ const Footer = () => {
               <div className="text-[#595959] text-[14px] font-normal leading-[28px]">
                 Sustainability policy
               </div>
-              <div className="flex items-start mb-4 lg:gap-4 md:gap-4 sm:gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
-              <img src={Image.iso1} alt="logo" width={170} className=''/> 
-              <img src={Image.iso2} alt="logo"  width={170} className=''/> 
+              <div className="flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start sm:justify-start">
+              <img src={Image.iso1} alt="logo" width={150} className=''/> 
+              <img src={Image.iso2} alt="logo"  width={150} className=''/> 
 
 
               </div>

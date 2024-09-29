@@ -1,7 +1,7 @@
 import { Image } from "../assets/index";
 const Expertise = () => {
   return (
-    <div className="px-24 py-10 flex flex-col gap-2 bg-[#15161E]" >
+    <div className="lg:px-24 lg:py-16 md:px-24 md:py-16 px-[10px] py-[20px] flex flex-col gap-2 bg-[#15161E]" >
           <h2 className="text-[#FFFFFF] text-[42px] text-center font-semibold leading-normal">
             Our Expertise
           </h2>

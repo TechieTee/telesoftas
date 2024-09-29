@@ -2,7 +2,7 @@ import React from 'react'
 
 const Stacks = () => {
   return (
-    <div className='px-24 py-16 grid gap-24 '>
+    <div className='lg:px-24 lg:py-16 md:px-24 md:py-16 px-[10px] py-[20px] grid gap-24 '>
       <div className=" grid items-center justify-center lg:grid-cols-2 gap-8 md:grid-cols-1 sm:grid-cols-1">
 
         <div className="group relative">
