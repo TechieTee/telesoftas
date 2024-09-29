@@ -15,13 +15,13 @@ const Home = () => {
   return (
     <div className="grid w-full">
       
- <Header />
+ {/* <Header /> */}
  <ViewPort/>
  <SubViewPort/>
  <Expertise />
  <Stacks/>
  <HowWeWork /> <WhyUs/> <Technologies /><Contact />
-  <Footer/> 
+  {/* <Footer/>  */}
 
  
 

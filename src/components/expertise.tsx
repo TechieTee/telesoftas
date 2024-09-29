@@ -17,7 +17,7 @@ const Expertise = () => {
             and organizations. Our expertise encompasses:
           </h4>
 
-    <div className="lg:w-[50%] mx-auto pb-4">
+    {/* <div className="lg:w-[50%] mx-auto pb-4">
    
       {videoError ? (
         <img 
@@ -39,7 +39,7 @@ const Expertise = () => {
         onError={handleError} 
       ></iframe>
       )}
-    </div>
+    </div> */}
        
     </div>
   );
