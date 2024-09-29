@@ -5,7 +5,7 @@ const HowWeWork = () => {
         <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-[#F5F8FF] w-full">
             <div className="flex flex-col items-center justify-center lg:grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 w-full">
                 <div className="">
-                  <h2 className="text-[#00012D] text-4xl lg:text-left text-center  lg:text-5xl  font-bold leading-normal">
+                  <h2 className="sm:pt-4 text-[#00012D] text-4xl lg:text-left text-center  lg:text-5xl  font-bold leading-normal">
                     How we work
                   </h2>
                   <h4 className="text-[#595959] text-[18px] lg:text-left text-center lg:text-[18px] font-normal mt-4 mb-8 leading-[30px] lg:w-4/5 w-full">

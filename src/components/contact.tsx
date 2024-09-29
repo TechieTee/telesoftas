@@ -49,7 +49,7 @@ const Contact = () => {
 
         <div className="flex items-center justify-between gap-2 ">
           <div className="lg:w-[90%]  md:w-[90%] w-[100%]">
-            <h2 className="text-black text-3xl lg:text-left md:text-left text-center lg:text-[50px] font-bold lg:leading-[60px] mb-4">
+            <h2 className="sm:pt-4 text-black text-3xl lg:text-left md:text-left text-center lg:text-[50px] font-bold lg:leading-[60px] mb-4">
               Contact Us
             </h2>
             <h4 className="text-black text-[18px] lg:text-left md:text-left text-center font-normal  mb-14 lg:leading-[33px]">
@@ -100,7 +100,7 @@ const Contact = () => {
             This form collects information we will use to send vou updates about promotions special otters, and news. we will not share or sell your personal information. You con unsuoschoe or any time
           </h4>
 
-          <div className="flex items-center gap-2">
+          <div className="flex items-center justify-center lg:justify-left gap-2">
             <input type="checkbox" name="" id="" />
             <div className="font-medium text-[14px] text-[#595959]">
               Yes, I consent to receiving emails
@@ -109,7 +109,7 @@ const Contact = () => {
 <a href="https://calendly.com/chude-sylvester-telesoftas" target="_blank">
           <button
             // isLoading={isSubmitting}
-            className="lg:w-[70%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
+            className="lg:w-[70%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
           >
             BOOK A FREE IDEA VALUATION CONSULTATION
           </button>

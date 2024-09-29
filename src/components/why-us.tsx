@@ -3,7 +3,7 @@ const WhyUs = () => {
   return (
 
     <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-black grid gap-8" >
-      <h2 className="text-white  text-3xl text-center lg:text-5xl  font-bold leading-normal">
+      <h2 className="sm:pt-4 text-white  text-3xl text-center lg:text-5xl  font-bold leading-normal">
       Why Choose TeleSoftas?
                   </h2>
       <h4 className="text-white text-center text-[18px] mb-4 font-normal leading-[28px] lg:leading-[33px] md:leading-[33px]">

@@ -5,7 +5,7 @@ const ViewPort = () => {
       <div className=" mx-auto grid xl:grid-cols-2 grid-cols-1 gap-6" >
         <div className=" col-span-1 ">
        
-            <h2 className="text-[#000000] text-[30px] lg:text-[45px] font-bold lg:leading-[60px] leading-tight">
+            <h2 className="text-[#000000] text-[33px] lg:text-[45px] font-bold lg:leading-[60px] leading-tight">
             Helping non-tech founders and organizations build and grow tech companies.
             </h2>
             <h4 className="text-[#595959] lg:text-left text-center text-[18px] font-normal  mt-4 mb-8 md:mb-12 leading-loose lg:pr-12 mx-auto lg:mx-0">

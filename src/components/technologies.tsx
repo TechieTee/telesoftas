@@ -5,7 +5,7 @@ const Technologies = () => {
  
         <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 relative">
           <div>
-            <h2 className="text-black lg:text-left md:text-left text-center text-3xl lg:text-[50px] font-bold lg:leading-[60px] mb-4 mt-4">
+            <h2 className="sm:pt-4 text-black lg:text-left md:text-left text-center text-3xl lg:text-[50px] font-bold lg:leading-[60px] mb-4 mt-4">
               We comfortably build
               on these platforms:
             </h2>
