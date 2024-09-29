@@ -121,7 +121,7 @@ const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?Compa
       </button>
 
       <div
-        className={`absolute w-[100%] bottom-[0]  h-fit border-black  transition-transform duration-75 px-[8%] py-[20px] z-10 left-0  grid rounded-b-lg bg-white gap-[20px] ${
+        className={`absolute w-[100%] bottom-[0]  h-fit border-black  transition-transform duration-75 px-[8%] py-[20px] z-10 left-0  grid rounded-b-lg bg-white gap-[8px] ${
           isOpen ? "translate-y-full" : "translate-y-[-100vh]  "
         }`}
       >
