@@ -23,8 +23,8 @@ const HowWeWork = () => {
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Engineering Consulting & Staffing</li>  </ul>
                 </div>
               <div className="sm:px-[20px] ">
-              {/* <img src={Image.work}  alt="logo" className="w-full h-[400px] object-cover rounded-[30px]"/> 
-             */}
+              <img src={Image.work}  alt="logo" className="lg:w-full lg:h-[400px] md:w-full md:h-[400px] md:object-cover lg:object-cover rounded-[30px]"/> 
+            
               </div>
             </div>
           </div>
