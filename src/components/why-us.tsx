@@ -59,7 +59,7 @@ const WhyUs = () => {
           We provide cost-effective solutions with competitive pricing and  quality, ensuring great rol. contact us to elevate vour development process today.</div>
         </div> 
       </div>
-      <p className="text-center mt-24 mb-12 text-white text-[26px] font-bold">Telesoftas is trusted by Global Brands</p>
+      <p className="text-center mt-24 mb-12 text-white text-[26px] font-bold">TeleSoftas is trusted by Global Brands</p>
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-12">
         <div className="col-span-1 self-center">
         <img src={Image.partner1}  alt="logo"  className="logo grayscale hover:grayscale-0 transition duration-300 ease-in-out"/> 
