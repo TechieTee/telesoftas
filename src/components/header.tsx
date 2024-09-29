@@ -79,7 +79,7 @@ const navItemdropdown:any=selectedIndex===1?DeveloperApi:selectedIndex===3?Compa
 
   return (
     <nav className="py-[15px] px-[4%] flex items-center justify-between   bg-white z-50 fixed w-full">
-    <img src={Image.logo}  alt="logo" onClick={()=>navigate('/')} className='lg:w-[280px] md:w-[180px] w-[100px] cursor-pointer'/> 
+    <img src={Image.logo}  alt="logo" onClick={()=>navigate('/')} className='lg:w-[280px] md:w-[180px] w-[120px] cursor-pointer'/> 
 
       <div className="hidden md:flex items-center gap-[20px]">
         {navItems.map((val, index) => (
