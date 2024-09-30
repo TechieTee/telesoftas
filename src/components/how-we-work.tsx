@@ -2,7 +2,7 @@ import { Image } from "../assets/index";
 const HowWeWork = () => {
   return (
 
-        <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-[#F5F8FF] w-full">
+        <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] bg-[#F5F8FF] w-full" id="about">
             <div className="flex flex-col items-center justify-center lg:grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 w-full">
                 <div className="">
                   <h2 className="sm:pt-4 text-[#00012D] text-4xl lg:text-left text-center  lg:text-5xl  font-bold leading-normal">

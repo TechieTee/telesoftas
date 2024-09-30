@@ -7,20 +7,21 @@ module.exports = {
   "./node_modules/react-tailwindcss-datepicker/dist/index.esm.js"],
   theme: {
     extend: {
-     
+      
       colors:{
         primary:'#00acef',
         secondary: '#F5801F'
       },
       fontFamily: {
-        'sfpro-regular': ['SF Pro Display Regular', 'sans'],
-        'sfpro-ultralight-italic': ['SF Pro Display Ultralight Italic', 'sans'],
-        'sfpro-thin-italic': ['SF Pro Display Thin Italic', 'sans'],
-        'sfpro-light-italic': ['SF Pro Display Light Italic', 'sans'],
-        'sfpro-medium': ['SF Pro Display Medium', 'sans'],
-        'sfpro-bold': ['SF Pro Display Bold', 'sans'],
-        'sfpro-heavy-italic': ['SF Pro Display Heavy Italic', 'sans'],
-        'sfpro-black-italic': ['SF Pro Display Black Italic', 'sans'],
+        'nominie': ['Nominie', 'sans-serif'],
+        // 'sfpro-regular': ['Nominie', 'sans-serif'],
+        // 'sfpro-ultralight-italic': ['Nominie', 'sans-serif'],
+        // 'sfpro-thin-italic': ['Nominie', 'sans-serif'],
+        // 'sfpro-light-italic': ['Nominie', 'sans-serif'],
+        // 'sfpro-medium': ['Nominie', 'sans-serif'],
+        // 'sfpro-bold': ['Nominie', 'sans-serif'],
+        // 'sfpro-heavy-italic': ['Nominie', 'sans-serif'],
+        // 'sfpro-black-italic': ['Nominie', 'sans-serif'],
         // 'Helvetica':['Helvetica Neue', 'sans']
       },
       zIndex: {

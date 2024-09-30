@@ -1,13 +1,33 @@
 @import './fonts.css';
-@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55?styles=30125,16015,16019,16008,16021,15983,16014,15991,15993,15996,30131,30133');
+@import url('https://fonts.googleapis.com/css2?family=Nominie:wght@400;500;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: Nominee;
+  font-weight: 900;
+  font-style: normal;
+  src: url('./assets/fonts/Nominee-Regular_8cad7736.woff2') format('woff2'), url('./assets/fonts/Nominee-Bold_4746af54.woff2') format('woff2'), url('./assets/fonts/Nominee-ExtraBold_08d10d76.woff2') format('woff2'), url('./assets/fonts/Nominee-Medium_70a8d0b5.woff2') format('woff2'); font-display: swap
+
+}
+
+@font-face {
+  font-family: 'Nominie';
+  src: url('./assets/fonts/Nominee-Regular_8cad7736.woff2') format('woff2'), url('./assets/fonts/Nominee-Bold_4746af54.woff2') format('woff2'), url('./assets/fonts/Nominee-ExtraBold_08d10d76.woff2') format('woff2'), url('./assets/fonts/Nominee-Medium_70a8d0b5.woff2') format('woff2'); font-display: swap;
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap
+}
+
+
 
 html,
 body {
   padding: 0;
   margin: 0;
+  font-family: 'Nominie', sans-serif;
   /* font-family: 'Helvetica Neue', sans-serif; */
 }
 

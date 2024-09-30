@@ -1,26 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.7952c894.css",
-    "main.js": "/static/js/main.81a7f0e6.js",
+    "main.css": "/static/css/main.4635b6b1.css",
+    "main.js": "/static/js/main.9beea8a0.js",
     "static/js/453.fceb5b0a.chunk.js": "/static/js/453.fceb5b0a.chunk.js",
     "static/media/expertise.jpg": "/static/media/expertise.dd70d62836b8eb3b0043.jpg",
     "static/media/brainstorming.png": "/static/media/brainstorming.67c24eb80a24eb6b57f6.png",
-    "static/media/SFPRODISPLAYMEDIUM.OTF": "/static/media/SFPRODISPLAYMEDIUM.b85d841dacb040b84951.OTF",
-    "static/media/SFPRODISPLAYBOLD.OTF": "/static/media/SFPRODISPLAYBOLD.b1f4d2c69fa808ebca12.OTF",
     "static/media/work.png": "/static/media/work.434a600c385ccff2e36b.png",
-    "static/media/SFPRODISPLAYREGULAR.OTF": "/static/media/SFPRODISPLAYREGULAR.d1f5e6e16dd4f75c3950.OTF",
-    "static/media/SFPRODISPLAYHEAVYITALIC.OTF": "/static/media/SFPRODISPLAYHEAVYITALIC.4e2238d8a1afd9136259.OTF",
-    "static/media/SFPRODISPLAYLIGHTITALIC.OTF": "/static/media/SFPRODISPLAYLIGHTITALIC.8dbfd26d5a831ca710e0.OTF",
-    "static/media/SFPRODISPLAYTHINITALIC.OTF": "/static/media/SFPRODISPLAYTHINITALIC.3d2597acea660678af19.OTF",
-    "static/media/SFPRODISPLAYULTRALIGHTITALIC.OTF": "/static/media/SFPRODISPLAYULTRALIGHTITALIC.b90d5d0f41170f11b87e.OTF",
-    "static/media/Helvetica Neue LTW0697BlkCnObl.otf": "/static/media/Helvetica Neue LTW0697BlkCnObl.5190ff59af2f5af19a32.otf",
-    "static/media/SFPRODISPLAYBLACKITALIC.OTF": "/static/media/SFPRODISPLAYBLACKITALIC.bf4f55c98ce6b6478da6.OTF",
-    "static/media/Helvetica NeueLTW0693BlkExtObl.otf": "/static/media/Helvetica NeueLTW0693BlkExtObl.473d47863c29558734be.otf",
-    "static/media/Helvetica Neue UltraLight.otf": "/static/media/Helvetica Neue UltraLight.31de0f84cf3343329bb2.otf",
     "static/media/herobg.jpeg": "/static/media/herobg.0abd0634424ee9ddcb4e.jpeg",
     "static/media/telesoftas.png": "/static/media/telesoftas.381570e2a4d25d82ded0.png",
     "static/media/iso2.png": "/static/media/iso2.53a03c71c93a4681b139.png",
-    "static/media/Helvetica Neue Medium Extended.otf": "/static/media/Helvetica Neue Medium Extended.bd585c682fdab445bd28.otf",
     "static/media/nodejs.svg": "/static/media/nodejs.b0d6c7cead1cf51d8ac0b40bf3637dce.svg",
     "static/media/iso1.png": "/static/media/iso1.1af4aa0e8abfa8d5d143.png",
     "static/media/partner5.svg": "/static/media/partner5.9c6ebee8dbbf24e9e95dea3d3ed8ce6f.svg",
@@ -41,16 +29,18 @@
     "static/media/instagram.svg": "/static/media/instagram.7cd201b867f2fc0eb66b54380d5d20bf.svg",
     "static/media/azure.svg": "/static/media/azure.1d61f263f8c47bcccfc6982ed4c70e67.svg",
     "static/media/net.svg": "/static/media/net.98dd8f19cbf4a7a788739cd942f7b79e.svg",
-    "static/media/flutter.svg": "/static/media/flutter.50bb17c0e69f24a17adbcca9bd6e8528.svg",
     "index.html": "/index.html",
+    "static/media/flutter.svg": "/static/media/flutter.50bb17c0e69f24a17adbcca9bd6e8528.svg",
     "static/media/angular.svg": "/static/media/angular.8d025088a1ff1e8c05194f4ddab7a0ad.svg",
     "static/media/html.svg": "/static/media/html.0107c93943a8f415b5db64ebb0a9d12d.svg",
-    "main.7952c894.css.map": "/static/css/main.7952c894.css.map",
-    "main.81a7f0e6.js.map": "/static/js/main.81a7f0e6.js.map",
+    "static/media/Nominie-Regular.woff": "/static/media/Nominie-Regular.31d6cfe0d16ae931b73c.woff",
+    "static/media/Nominie-Regular.woff2": "/static/media/Nominie-Regular.31d6cfe0d16ae931b73c.woff2",
+    "main.4635b6b1.css.map": "/static/css/main.4635b6b1.css.map",
+    "main.9beea8a0.js.map": "/static/js/main.9beea8a0.js.map",
     "453.fceb5b0a.chunk.js.map": "/static/js/453.fceb5b0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7952c894.css",
-    "static/js/main.81a7f0e6.js"
+    "static/css/main.4635b6b1.css",
+    "static/js/main.9beea8a0.js"
   ]
 }

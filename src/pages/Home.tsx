@@ -20,7 +20,12 @@ const Home = () => {
  <SubViewPort/>
  <Expertise />
  <Stacks/>
- <HowWeWork /> <WhyUs/> <Technologies /><Contact />
+ <HowWeWork />
+ 
+  <WhyUs/> <Technologies />
+
+ <Contact />
+ 
   <Footer/> 
 
  

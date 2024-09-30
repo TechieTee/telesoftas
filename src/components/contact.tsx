@@ -43,7 +43,7 @@ const Contact = () => {
   //   }
   // };
   return (
-    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#F5F8FF] w-full">
+    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#F5F8FF] w-full" id="contact">
 
       <div className="grid items-center justify-between gap-16 lg:grid-cols-2  md:grid-cols-1 sm:grid-cols-1">
 
