@@ -100,7 +100,7 @@ const Contact = () => {
             This form collects information we will use to send vou updates about promotions special otters, and news. we will not share or sell your personal information. You con unsuoschoe or any time
           </h4>
 
-          <div className="flex items-center justify-center lg:justify-left gap-2">
+          <div className="flex items-center justify-center lg:items-left md:items-left lg:justify-left md:justify-left gap-2">
             <input type="checkbox" name="" id="" />
             <div className="font-medium text-[14px] text-[#595959]">
               Yes, I consent to receiving emails
