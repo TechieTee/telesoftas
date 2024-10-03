@@ -1,7 +1,7 @@
 import { Image } from "../assets/index";
 const ViewPort = () => {
   return (
-    <div className="lg:pt-[230px] pt-[130px] md:pt-[230px] lg:px-36 lg:pb-16 md:px-36 md:pb-16 px-[20px] py-[20px]  grid md:items-center md:justify-center bg-[#FFFFFF] w-full lg:text-left md:text-center text-center" >
+    <div className="lg:pt-[220px] pt-[130px] md:pt-[220px] lg:px-36 lg:pb-16 md:px-36 md:pb-16 px-[20px] py-[20px]  grid md:items-center md:justify-center bg-[#FFFFFF] w-full lg:text-left md:text-center text-center" >
       <div className=" mx-auto grid xl:grid-cols-2 grid-cols-1 md:gap-24 gap-2" >
         <div className=" col-span-1 ">
        
