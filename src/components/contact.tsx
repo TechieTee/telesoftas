@@ -106,7 +106,7 @@ const Contact = () => {
               Yes, I consent to receiving emails
             </div>
           </div>
-<a href="https://calendly.com/chude-sylvester-telesoftas" target="_blank">
+<a href="https://calendly.com/telesoftas-nigeria" target="_blank">
           <button
             // isLoading={isSubmitting}
             className="lg:w-[70%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"

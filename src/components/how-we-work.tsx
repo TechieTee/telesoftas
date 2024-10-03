@@ -16,7 +16,7 @@ const HowWeWork = () => {
                     you throughout the entire journey, from validating your initial
                     concept to the lifetime of your product.
                   </h4>
-                  <ul className="list-disc mt-4 pl-8 lg:mb-0 md:mb-0 mb-8">
+                  <ul className="list-disc mt-4 pl-8 lg:mb-0 md:mb-0 md:mb-8 mb-8">
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5"><span className="font-bold text-black">FREE</span> idea valuation consultation.</li>
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal mb-2 leading-loose lg:w-4/5">Product Strategy & Discovery</li>
                     <li className="text-[#595959] text-[18px] lg:text-[18px] font-normal  mb-2 leading-loose lg:w-4/5">Product Design & Delivery</li>

@@ -5,6 +5,12 @@ module.exports = {
   "./pages/**/*.{js,ts,jsx,tsx}",
   "./components/**/*.{js,ts,jsx,tsx}",
   "./node_modules/react-tailwindcss-datepicker/dist/index.esm.js"],
+  rules: [
+    {
+      test: /\.(mp4|webm|ogg|mp3|wav|flac|aac)$/i,
+      type: 'asset/resource',
+    },
+  ],
   theme: {
     extend: {
       

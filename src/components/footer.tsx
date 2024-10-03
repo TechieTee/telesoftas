@@ -4,7 +4,7 @@ import { Image } from "../assets/index";
 const Footer = () => {
   return (
     <>
-      <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] w-full">
+      <div className="bg-white lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] w-full">
         <div className="grid gap-6 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1">
           <div className="grid lg:grid-cols-1 ">
           <img src={Image.logo} width={170} alt="logo"/> 
@@ -42,7 +42,7 @@ const Footer = () => {
               <div className="text-[#595959] text-[14px] mb-2 font-normal leading-[28px]">
                 Sustainability policy
               </div>
-              <div className="px-2 bg-black lg:w-full md:w-full w-fit flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start justify-start">
+              <div className="px-2 bg-black lg:w-fit md:w-fit w-fit flex items-start mb-4 lg:gap-4 md:gap-4 gap-4 flex-row lg:justify-start md:justify-start justify-start">
               <img src={Image.iso1} alt="logo" width={120} className='' /> 
               <img src={Image.iso2} alt="logo"  width={120} className=''/> 
 
@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
 
       </div>
-      <div className="lg:gap-24 md:gap-16 gap-8 lg:px-36 lg:py-8 md:px-24 md:py-16 px-[20px] py-[20px] w-full  border-t border-t-1  grid lg:grid-cols-4 md:grid-cols-1 sm:grid-cols-1 ">
+      <div className="bg-white lg:gap-24 md:gap-16 gap-8 lg:px-36 lg:py-8 md:px-24 md:py-16 px-[20px] py-[20px] w-full  border-t border-t-1  grid lg:grid-cols-4 md:grid-cols-1 sm:grid-cols-1 ">
       <span className="text-black text-left text-[12px]"><span className="font-bold">Nigeria</span><br/>57 Ebitu Ukiwe Street Jabi, Abuja,
               FCT Nigeria</span>
 <span className="text-black text-left text-[12px]"><span className="font-bold">Kaunas</span> <br/> K. Donelaičio g. 60, A korpusas, Kaunas, Lithuania</span>

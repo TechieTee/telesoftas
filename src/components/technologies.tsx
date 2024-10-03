@@ -1,9 +1,9 @@
 import { Image } from "../assets/index";
 const Technologies = () => {
   return (
-    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#FFFFFF] w-full lg:text-left md:text-center sm:text-center" >
+    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#FFFFFF] w-full lg:text-left  sm:text-center" >
  
-        <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 gap-2 relative">
+        <div className="grid lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 gap-2 relative">
           <div>
             <h2 className="sm:pt-4 text-black lg:text-left md:text-left text-center text-3xl lg:text-[50px] font-bold lg:leading-[60px] mb-4 mt-4">
               We comfortably build
@@ -26,8 +26,8 @@ const Technologies = () => {
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">AWS</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">AWS</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Harness the power of Amazon Web
 Services for cloud computing solutions
 that scale with your business.      </div>
@@ -43,8 +43,8 @@ that scale with your business.      </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">JAVA</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">JAVA</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Develop versatile applications using
 Java, known for its portability and
 extensive ecosystem.     </div>
@@ -59,8 +59,8 @@ extensive ecosystem.     </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">.NET</p> 
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">.NET</p> 
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Utilise the .NET framework to create
 high-performance applications across
 various platforms.     </div>
@@ -79,8 +79,8 @@ various platforms.     </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">POLYMERJS</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">POLYMERJS</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Utilise Polymer.js to create custom web
 components that enhance your
 application s functionality.     </div>
@@ -95,8 +95,8 @@ application s functionality.     </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">AZURE</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">AZURE</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Leverage Microsoft Azure for
 comprehensive cloud services that
 enhance your application s capabilities.    </div>
@@ -111,8 +111,8 @@ enhance your application s capabilities.    </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">REACTJS</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">REACTJS</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Create dynamic user interfaces with
 React.js, ensuring a seamless user
 experience.     </div>
@@ -132,8 +132,8 @@ experience.     </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">FLUTTER</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">FLUTTER</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Build beautiful, natively compiled
 applications for mobile, web, and
 desktop from a single codebase.    </div>
@@ -149,8 +149,8 @@ desktop from a single codebase.    </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">ANGULAR</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">ANGULAR</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Leverage Microsoft Azure for
 comprehensive cloud services that
 enhance your application s capabilities.    </div>
@@ -165,8 +165,8 @@ enhance your application s capabilities.    </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">NODEJS</p> 
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">NODEJS</p> 
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Implement fast and scalable network
 applications using Node.js for real-time
 data processing.    </div>
@@ -185,8 +185,8 @@ data processing.    </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">HTML/CSS</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">HTML/CSS</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left" >
               Design engaging and responsive web
 layouts with HTML and CSS, the
 backbone of web development.    </div>
@@ -202,8 +202,8 @@ backbone of web development.    </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">PHP</p>
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left">PHP</p>
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left " >
               Develop server-side applications
 efficiently using PHP, a widely-used
 scripting language.     </div>
@@ -218,8 +218,8 @@ scripting language.     </div>
               </div>
 
               <div>
-              <p className="text-black text-[22px] font-bold">DIVERSE EXPERTISE</p> 
-              <div className="text-[#595959] text-[16px] leading-[25px]" >
+              <p className="text-black text-[22px] font-bold md:text-left  ">DIVERSE EXPERTISE</p> 
+              <div className="text-[#595959] text-[16px] leading-[25px] md:text-left " >
               Leveraging various technologies to
 meet unique business needs     </div>
                 </div>

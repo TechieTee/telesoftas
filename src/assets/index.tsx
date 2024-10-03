@@ -29,7 +29,8 @@ import expert from './expert.svg'
 import diverse from'./diverse.svg'
 import facebook from './facebook.svg'
 import linkedin from './linkedin.svg'
-import instagram from'./instagram.svg'
+import instagram from './instagram.svg'
+
 
 export const Image={
 
