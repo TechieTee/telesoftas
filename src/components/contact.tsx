@@ -43,40 +43,13 @@ const Contact = () => {
   //   }
   // };
   return (
-    <div className="lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#F5F8FF] w-full" id="contact">
+    <div className=" grid items-center justify-center  lg:grid-cols-1  md:grid-cols-1 sm:grid-cols-1 lg:px-36 lg:py-16 md:px-24 md:py-16 px-[20px] py-[20px] block bg-[#F5F8FF] w-full" id="contact">
 
-      <div className="grid items-center justify-between gap-16 lg:grid-cols-2  md:grid-cols-1 sm:grid-cols-1">
-
-        <div className="flex items-center justify-between gap-2 ">
-          <div className="lg:w-[90%]  md:w-[90%] w-[100%]">
-            <h2 className="sm:pt-4 text-black text-3xl lg:text-left md:text-left text-center lg:text-[50px] font-bold lg:leading-[60px] mb-4">
-              Contact Us
-            </h2>
-            <h4 className="text-black text-[18px] lg:text-left md:text-left text-center font-normal  mb-14 lg:leading-[33px]">
-              57 Ebitu Ukiwe Street Jabi, Abuja,
-              FCT Nigeria
-            </h4>
-          </div>
-
-
-
-          {/* <div className="lg:w-[10%]  md:w-[10%] w-[100%]">
-            <div className="flex items-center justify-center">
-              <div className="flex-grow border-t border-black"></div>
-              <span className="mx-2 text-[18px] text-black">Or</span>
-              <div className="flex-grow border-t border-black"></div>
-            </div>
-          </div> */}
-        </div>
-
-
-
-
-        <form className=" flex flex-col gap-y-6  "
+        <form className=" flex items-center justify-center flex-col gap-y-6  "
         // onSubmit={handleSubmit(onSubmit)}
         >
           <h2 className="text-black text-2xl lg:text-left md:text-left text-center lg:text-[30px] font-bold leading-[60px] mb-4">
-            Join Our Mailing List
+Book a FREE Consultation
           </h2>
 
           <div className="flex gap-x-4">
@@ -96,8 +69,8 @@ const Contact = () => {
             // register={register}
             />
           </div>
-          <h4 className="text-[#595959] lg:text-left md:text-left text-center text-[14px] font-normal lg:mr-16  leading-[27px]">
-          Ready to bring your tech idea to life? Book a no-cost consultation and let's discuss how we can help you develop and launch your product.
+          <h4 className="text-[#595959] text-center text-[14px] font-normal  leading-[27px]">
+          Ready to bring your tech idea to life? Book a no-cost consultation and <br/>let's discuss how we can help you develop and launch your product.
  </h4>
 
           <div className="flex  lg:items-left md:items-left lg:justify-start md:justify-start items-center justify-center gap-2">
@@ -109,15 +82,16 @@ const Contact = () => {
 <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
           <button
             // isLoading={isSubmitting}
-            className="lg:w-[70%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
+            className="lg:w-[100%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
           >
             BOOK NOW
           </button>
           </a>
         </form>
+
       </div>
 
-    </div>
+
   );
 };
 
