@@ -97,8 +97,8 @@ const Contact = () => {
             />
           </div>
           <h4 className="text-[#595959] lg:text-left md:text-left text-center text-[14px] font-normal lg:mr-16  leading-[27px]">
-            This form collects information we will use to send vou updates about promotions special otters, and news. we will not share or sell your personal information. You con unsuoschoe or any time
-          </h4>
+          Ready to bring your tech idea to life? Book a no-cost consultation and let's discuss how we can help you develop and launch your product.
+ </h4>
 
           <div className="flex  lg:items-left md:items-left lg:justify-start md:justify-start items-center justify-center gap-2">
             <input type="checkbox" name="" id="" />
@@ -111,7 +111,7 @@ const Contact = () => {
             // isLoading={isSubmitting}
             className="lg:w-[70%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
           >
-            BOOK A FREE IDEA VALUATION CONSULTATION
+            BOOK NOW
           </button>
           </a>
         </form>
