@@ -6,7 +6,7 @@ const ViewPort = () => {
         <div className=" col-span-1 ">
        
             <h2 className=" text-[#000000] text-[33px] lg:text-[45px] font-bold lg:leading-[60px] leading-tight ">
-            Helping non-tech founders and organizations build and grow tech companies.
+Empowering Non-Tech Founders to Build & Grow Tech Businesses.
             </h2>
             <h4 className="text-[#595959] lg:text-left text-center text-[18px] font-normal  mt-4 mb-8 md:mb-12 leading-loose lg:pr-12 mx-auto lg:mx-0">
             TeleSoftas Nigeria is a top outsourcing provider for non-tech founders, part of Helmes, a leading Northern European firm. Based in Tallinn, we simplify software development.
