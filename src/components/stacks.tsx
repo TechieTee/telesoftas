@@ -36,69 +36,44 @@ const Stacks = () => {
         </div>
       </div>
 
-      <div className=" grid items-center  justify-center lg:grid-cols-2  md:grid-cols-1 lg:gap-8 gap-12 sm:grid-cols-1">
+      <div className="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1 items-center justify-between gap-4 mt-10">
+        <div className="grid gap-2 items-center h-full shadow-sm p-6 bg-white rounded-[8px]">
+        <div className="flex justify-center items-center mt-[-80px]">
+      <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
+        <div className="w-full h-full bg-white rounded-full"></div>
+      </div>
+    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">Flexibility to Build
+            for Any Industry</p>
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+          We offer tailored solutions across various industries, including finance healthcare and e-commerce. to meet your business needs and drive success
+          </div>
+        </div>
+        <div className="grid gap-2 items-center h-full shadow-sm p-6 bg-white rounded-[8px]">
+        <div className="flex justify-center items-center mt-[-80px]">
+      <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
+        <div className="w-full h-full bg-white rounded-full"></div>
+      </div>
+    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">Time Zone Advantage</p>
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+          Based in Tallinn. Estonia. we efficiently collaborate with clients across time zones, ensuring your project stays on track.
+          </div>
+        </div>
+        <div className="grid gap-2 items-center h-full shadow-sm p-6 bg-white rounded-[8px]">
+        <div className="flex justify-center items-center mt-[-80px]">
+      <div className="w-32 h-32 rounded-full bg-gradient-to-r from-pink-500 via-yellow-500 to-blue-500 p-1">
+        <div className="w-full h-full bg-white rounded-full"></div>
+      </div>
+    </div> <p className="text-[#404040] text-[24px] font-bold text-center leading-[35px]">
+          Excellent English Communication Skills</p>
+          <div className="text-[#595959] lg:mb-0 md:mb-0 mb-8 text-[14px] text-center leading-[30px]" >
+          Our English-fluent team ensures clear communication. understanding vour neeas and providing timely updates throughout development.
+           </div>
+        </div>
 
-<div className="group relative lg:mt-4 md:mt-4 mt-8">
-  <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
-  Cloud Solutions
-  </div>
-  <div className="font-black absolute text-[4.6rem] text-[#d7e0f2] -top-9 left-0 z-[-1]">
-    03
-  </div>
-  <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Leveraging cloud infrastructure to build scalable, secure, and cost-effective applications.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
-          <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
-            Read More
-          </button></a>
-</div>
+      
 
-<div className="group relative lg:mt-4 md:mt-4 mt-8">
-  <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
-  Artificial Intelligence
-  </div>
-  <div className="font-black absolute text-[4.6rem] text-[#d7e0f2] -top-9 left-0 z-[-1]">
-    04
-  </div>
-  <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Harnessing the power of Al to create intelligent solutions that solve complex business problems.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
-          <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
-            Read More
-          </button></a>
-</div>
-</div>
-
-
-<div className="       grid items-center justify-center lg:grid-cols-2  md:grid-cols-1  lg:gap-8 gap-12 sm:grid-cols-1">
-
-<div className="group relative lg:mt-4 md:mt-4 mt-8">
-  <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
-  Digital Transformation
-  </div>
-  <div className="font-black absolute text-[4.6rem] text-[#d7e0f2] -top-9 left-0 z-[-1]">
-    05
-  </div>
-  <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 lg:w-2/3 font-normal  leading-[27px] pb-4">Helping businesses modernise their processes and systems to stay competitive in the digital age.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
-          <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
-            Read More
-          </button></a>
-</div>
-
-
-<div className="group relative lg:mt-4 md:mt-4 mt-8">
-  <div className="ml-6 font-black text-[24px] mb-6 inline-block text-[#151621] relative transition-[padding] duration-200 ease-out">
-  Data Management
-  </div>
-  <div className="font-black absolute text-[4.6rem] text-[#d7e0f2] -top-9 left-0 z-[-1]">
-    06
-  </div>
-  <h4 className="ml-6 text-[#595959] text-[18px] lg:w-2/3 font-normal  leading-[27px] pb-4">Data Management: Implementing robust data strategies to ensure efficient storage, retrieval, and analysis of data.</h4>
-  <a href="https://calendly.com/telesoftas-nigeria" target="_blank">
-          <button className=" mb-4 absolute opacity-0 group-hover:opacity-100 transition-opacity duration-300 ml-6 text-[12px] text-[1rem] py-2 px-4 bg-black text-white" >
-            Read More
-          </button></a>
-</div>
-</div>
+       
+      </div>
 
     </div>
 

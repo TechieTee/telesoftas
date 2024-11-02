@@ -69,24 +69,9 @@ Book a FREE Consultation
             // register={register}
             />
           </div>
-          <h4 className="text-[#595959] text-center text-[14px] font-normal  leading-[27px]">
-          Ready to bring your tech idea to life? Book a no-cost consultation and <br/>let's discuss how we can help you develop and launch your product.
- </h4>
+         
 
-          <div className="flex  lg:items-left md:items-left lg:justify-start md:justify-start items-center justify-center gap-2">
-            <input type="checkbox" name="" id="" />
-            <div className="font-medium text-[14px] text-[#595959]">
-              Yes, I consent to receiving emails
-            </div>
-          </div>
-<a href="https://calendly.com/telesoftas-nigeria" target="_blank">
-          <button
-            // isLoading={isSubmitting}
-            className="lg:w-[100%] w-[100%] md:w-full sm:w-full bg-black text-white font-bold h-[45px] lg:text-[14px] text-[10px]  font-meduim px-4"
-          >
-            BOOK NOW
-          </button>
-          </a>
+  
         </form>
 
       </div>
