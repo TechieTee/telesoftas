@@ -1,6 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Image } from "../assets/index";
+import { CiUnlock } from "react-icons/ci";
+import { PiWallet } from "react-icons/pi";
+import { FaRegAddressCard } from "react-icons/fa";
+import { LiaWeightSolid } from "react-icons/lia";
+import { IoBagOutline } from "react-icons/io5";
 
 const Header = () => {
   const navItems = [
@@ -55,9 +60,9 @@ const Header = () => {
   };
 
   return (
-    <nav className="py-[10px] px-[5%] flex items-center justify-between bg-[#fff] z-50 fixed w-full">
+    <nav className="py-[10px] px-[5%] flex items-center justify-between bg-white z-50 fixed w-full">
       <img
-        src={Image.Logo}
+        src={Image.logo}
         alt="logo"
         onClick={() => navigate('/')}
         className="lg:w-[280px] md:w-[180px] w-[150px] cursor-pointer"
@@ -75,9 +80,6 @@ const Header = () => {
             <p>{item.name}</p>
           </div>
         ))}
-         <button className="text-[14px] py-3 lg:px-6 w-full border border-black" >
-                READ MORE
-                </button>
       </div>
 
       <button className="md:hidden" onClick={toggleDropdown}>
@@ -110,9 +112,6 @@ const Header = () => {
             <p>{item.name}</p>
           </div>
         ))}
-         <button className="text-[14px] py-3 lg:px-6 w-full border border-black" >
-                READ MORE
-                </button>
       </div>
     </nav>
   );

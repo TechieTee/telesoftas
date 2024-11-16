@@ -1,41 +1,40 @@
 
-import HeroGraphics from './HeroGraphics.svg'
-import Ellipse41 from './Ellipse41.svg'
-import Ellipse42 from './Ellipse42.svg'
-import Ellipse4 from './Ellipse4.svg'
-import Ellipse101 from './Ellipse101.svg'
-import Ellipse102 from './Ellipse102.svg'
-import Ellipse10 from './Ellipse10.svg'
-import Group2101 from './Group2101.svg'
-import Group216 from './Group216.svg'
-import Group232 from './Group232.svg'
-import Group233 from './Group233.svg'
-import Group281 from './Group281.svg'
-import Logo from './Logo.svg'
-import Logo2 from './Logo2.svg'
+import logo from './telesoftas.png'
+import hero from './herobg.jpeg'
+import iso1 from './iso1.png'
+import iso2 from './iso2.png'
+import brainstorming from './brainstorming.png'
+import expertise from './expertise.jpg'
+import work from './work.png'
+import partner1 from './partner1.svg'
+import partner2 from './partner2.svg'
+import partner3 from './partner3.svg'
+import partner4 from './partner4.png'
+import partner5 from './partner5.svg'
+import partner6 from './partner6.png'
+import partner7 from './partner7.svg'
+import partner8 from './partner8.svg'
+import aws from './aws.svg'
+import java from './java.svg'
+import net from './net.svg'
+import polymer from './polymer.svg'
+import azure from './azure.svg'
+import react from './reactjs.svg'
+import flutter from './flutter.svg'
+import angular from './angular.svg'
+import node from './nodejs.svg'
+import html from './html.svg'
+import php from './php.svg'
+import expert from './expert.svg'
+import diverse from'./diverse.svg'
+import facebook from './facebook.svg'
+import linkedin from './linkedin.svg'
+import instagram from './instagram.svg'
 
-import Logo3 from './Logo3.svg'
-
-import Logo4 from './Logo4.svg'
-import Rectangle1270 from './Rectangle1270.svg'
-
-import Rectangle12701 from './Rectangle12701.svg'
-import Rectangle12702 from './Rectangle12702.svg'
-import Rectangle12703 from './Rectangle12703.svg'
-import Rectangle12704 from './Rectangle12704.svg'
-import Rectangle12705 from './Rectangle12705.svg'
-import Rectangle12706 from './Rectangle12706.svg'
-import Rectangle12707 from './Rectangle12707.svg'
-import Rectangle12708 from './Rectangle12708.svg'
-
-import star from './Logo4.svg'
-import star1 from './star1.svg'
-import star2 from './star2.svg'
-import sun from './sun.svg'
 
 export const Image={
 
-    HeroGraphics, Ellipse10,Ellipse101,Ellipse102,Ellipse4,Ellipse41,Ellipse42,Group2101,Group216,Group232,Group233, Group281,Logo,Logo2,Logo3,Logo4,Rectangle1270,Rectangle12701,Rectangle12703,Rectangle12704,Rectangle12706,Rectangle12702,Rectangle12705,Rectangle12707,Rectangle12708,star1,star2,star,sun
+    logo,hero,iso1,iso2,brainstorming,expertise,work,partner1,partner2,partner3,partner4,partner5,partner6,partner7,partner8,aws,java,polymer,net,azure,react,flutter,angular, node,html,php,diverse,expert,facebook,linkedin,instagram
 
 }
 

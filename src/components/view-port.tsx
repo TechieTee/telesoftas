@@ -29,7 +29,7 @@ Empowering Non-Tech Founders to Build & Grow Tech Businesses.
         </div>
 
         <div className="col-span-1 items-center justify-center xl:flex">
-        <img src={Image.HeroGraphics} alt="logo"  className='lg:w-[85%] lg:mt-[-50px] md:mx-auto'/> 
+        <img src={Image.hero} alt="logo"  className='lg:w-[85%] lg:mt-[-50px] md:mx-auto'/> 
 
         </div>
       </div>
